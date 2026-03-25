@@ -1,0 +1,14 @@
+﻿{
+  "name": "com.vectoui.unity.convertor",
+  "displayName": "VectoUI Unity Converter",
+  "version": "0.5.2",
+  "description": "Vecto UI Convertor for LanHu users",
+  "unity": "2022.3",
+  "author": {
+    "name": "Vecto UI"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "3.2.1"
+  }
+}
