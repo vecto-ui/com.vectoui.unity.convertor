@@ -1,8 +1,15 @@
 {
   "packageName": "com.vectoui.unity.convertor",
-  "latestVersion": "0.6.3",
-  "releasedAt": "2026-04-01T02:24:00Z",
+  "latestVersion": "0.631.0",
+  "releasedAt": "2026-04-02T07:47:33Z",
   "releases": [
+    {
+      "version": "0.631.0",
+      "tag": "0.631.0",
+      "notes": [
+        "auto publish vectoui plugin <0.631.0>"
+      ]
+    },
     {
       "version": "0.6.3",
       "tag": "0.6.3",
