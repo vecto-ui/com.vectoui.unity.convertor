@@ -2,12 +2,11 @@
   "name": "com.vectoui.unity.convertor",
   "displayName": "VectoUI Unity Converter",
   "version": "0.7.0",
-  "description": "Vecto UI Convertor for LanHu users",
+  "description": "A powerful UI automation generation tool for the Unity engine",
   "unity": "2022.3",
   "author": {
     "name": "Vecto UI"
   },
-  "license": "MIT",
   "dependencies": {
     "com.unity.nuget.newtonsoft-json": "3.2.1"
   }
