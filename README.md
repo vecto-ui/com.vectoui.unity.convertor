@@ -1,4 +1,9 @@
-# VECTOUI UNITY CONVERTER
+# VECTOUI CONVERTER
+
+
+ **VectoUI Converter** 支持**一键将蓝湖设计稿转换为 Unity UI Prefab**，并自动搞定资源下载与层级还原，彻底解决手动拼 UI 耗时易错的痛点。如果你想告别枯燥的界面搭建、让 UI 生产效率翻倍，立即访问 [VectoUI 官网 (www.vectoui.com)](https://www.vectoui.com) 开启自动化工作流！
+
+
 
 ## 相关文档
 
@@ -20,6 +25,25 @@
 {
   "dependencies": {
     "com.vectoui.unity.convertor": "git@github.com:vecto-ui/com.vectoui.unity.convertor.git",
+    ...
+  }
+}    
+```
+----
+
+## 国内 Prepo 镜像
+
+国内 Gitee 仓库镜像 
+
+https://gitee.com/sourcetoken/com.vectoui.unity.convertor
+
+国内资源配置
+**manifest.json**
+```json
+
+{
+  "dependencies": {
+    "com.vectoui.unity.convertor": "git@gitee.com:sourcetoken/com.vectoui.unity.convertor.git",
     ...
   }
 }    
