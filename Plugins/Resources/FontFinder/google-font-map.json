@@ -1,0 +1,127 @@
+{
+  "version": 1,
+  "updatedAtUtc": "2026-07-01T07:07:07Z",
+  "source": "https://fonts.googleapis.com/css2",
+  "fonts": [
+    {
+      "family": "Roboto",
+      "cssUrl": "https://fonts.googleapis.com/css2?family=Roboto"
+    },
+    {
+      "family": "Open Sans",
+      "cssUrl": "https://fonts.googleapis.com/css2?family=Open+Sans"
+    },
+    {
+      "family": "Noto Sans",
+      "cssUrl": "https://fonts.googleapis.com/css2?family=Noto+Sans"
+    },
+    {
+      "family": "Noto Serif",
+      "cssUrl": "https://fonts.googleapis.com/css2?family=Noto+Serif"
+    },
+    {
+      "family": "Noto Sans SC",
+      "cssUrl": "https://fonts.googleapis.com/css2?family=Noto+Sans+SC"
+    },
+    {
+      "family": "Noto Serif SC",
+      "cssUrl": "https://fonts.googleapis.com/css2?family=Noto+Serif+SC"
+    },
+    {
+      "family": "Source Sans 3",
+      "cssUrl": "https://fonts.googleapis.com/css2?family=Source+Sans+3"
+    },
+    {
+      "family": "Source Serif 4",
+      "cssUrl": "https://fonts.googleapis.com/css2?family=Source+Serif+4"
+    },
+    {
+      "family": "Lato",
+      "cssUrl": "https://fonts.googleapis.com/css2?family=Lato"
+    },
+    {
+      "family": "Montserrat",
+      "cssUrl": "https://fonts.googleapis.com/css2?family=Montserrat"
+    },
+    {
+      "family": "Poppins",
+      "cssUrl": "https://fonts.googleapis.com/css2?family=Poppins"
+    },
+    {
+      "family": "Inter",
+      "cssUrl": "https://fonts.googleapis.com/css2?family=Inter"
+    },
+    {
+      "family": "Oswald",
+      "cssUrl": "https://fonts.googleapis.com/css2?family=Oswald"
+    },
+    {
+      "family": "Raleway",
+      "cssUrl": "https://fonts.googleapis.com/css2?family=Raleway"
+    },
+    {
+      "family": "Merriweather",
+      "cssUrl": "https://fonts.googleapis.com/css2?family=Merriweather"
+    },
+    {
+      "family": "Playfair Display",
+      "cssUrl": "https://fonts.googleapis.com/css2?family=Playfair+Display"
+    },
+    {
+      "family": "Nunito",
+      "cssUrl": "https://fonts.googleapis.com/css2?family=Nunito"
+    },
+    {
+      "family": "Nunito Sans",
+      "cssUrl": "https://fonts.googleapis.com/css2?family=Nunito+Sans"
+    },
+    {
+      "family": "Ubuntu",
+      "cssUrl": "https://fonts.googleapis.com/css2?family=Ubuntu"
+    },
+    {
+      "family": "Rubik",
+      "cssUrl": "https://fonts.googleapis.com/css2?family=Rubik"
+    },
+    {
+      "family": "Work Sans",
+      "cssUrl": "https://fonts.googleapis.com/css2?family=Work+Sans"
+    },
+    {
+      "family": "DM Sans",
+      "cssUrl": "https://fonts.googleapis.com/css2?family=DM+Sans"
+    },
+    {
+      "family": "PT Sans",
+      "cssUrl": "https://fonts.googleapis.com/css2?family=PT+Sans"
+    },
+    {
+      "family": "PT Serif",
+      "cssUrl": "https://fonts.googleapis.com/css2?family=PT+Serif"
+    },
+    {
+      "family": "Fira Sans",
+      "cssUrl": "https://fonts.googleapis.com/css2?family=Fira+Sans"
+    },
+    {
+      "family": "Barlow",
+      "cssUrl": "https://fonts.googleapis.com/css2?family=Barlow"
+    },
+    {
+      "family": "Quicksand",
+      "cssUrl": "https://fonts.googleapis.com/css2?family=Quicksand"
+    },
+    {
+      "family": "Manrope",
+      "cssUrl": "https://fonts.googleapis.com/css2?family=Manrope"
+    },
+    {
+      "family": "Roboto Condensed",
+      "cssUrl": "https://fonts.googleapis.com/css2?family=Roboto+Condensed"
+    },
+    {
+      "family": "Roboto Slab",
+      "cssUrl": "https://fonts.googleapis.com/css2?family=Roboto+Slab"
+    }
+  ]
+}
